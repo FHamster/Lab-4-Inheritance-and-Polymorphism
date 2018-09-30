@@ -1,4 +1,4 @@
-package test1;
+package test1.nofactory;
 
 public class ShapeTest
 {
