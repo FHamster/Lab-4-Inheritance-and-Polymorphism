@@ -1,11 +1,8 @@
 package test1;
 
-import test1.shapes.Circle;
-import test1.shapes.Rectangle;
-import test1.shapes.Shape;
-import test1.shapes.Triangle;
+import test1.shapes.*;
 
-public class ShapeTest
+public class ShapeDemo
 {
     public static void main(String[] args)
     {

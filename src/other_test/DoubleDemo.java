@@ -1,6 +1,6 @@
 package other_test;
 
-public class DoubleTest
+public class DoubleDemo
 {
     public static void main(String[] args)
     {
