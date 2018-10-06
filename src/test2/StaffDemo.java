@@ -94,7 +94,6 @@ public class StaffDemo
     private static void sortByDateHired(Staff[] staffs)
     {
         Arrays.sort(staffs, (Staff o1, Staff o2) -> o1.getDateHired().compareTo(o2.getDateHired()));
-
     }
 
 }
