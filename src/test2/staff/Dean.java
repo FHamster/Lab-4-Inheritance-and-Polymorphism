@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Dean extends Teacher
 {
-    int adminAward;
+    private int adminAward;
 
     public Dean(String name, String address, int age, int sex, int salary, Date dateHired, String department, String speciality, int postAllowance, int adminAward)
     {

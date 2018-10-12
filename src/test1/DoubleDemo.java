@@ -1,4 +1,4 @@
-package other_test;
+package test1;
 
 public class DoubleDemo
 {
